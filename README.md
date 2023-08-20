@@ -23,6 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+![](https://imgur.com/a/kfqAh19)
+
 <img src='https://imgur.com/a/kfqAh19' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
@@ -38,7 +40,7 @@ Learning the spread operator and deconstruction was probably the hardest part.
 
 ## License
 
-    Copyright [2023] [Cierra Wickliff]
+    Copyright 2023 Cierra Wickliff
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
