@@ -23,8 +23,6 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![](codepathweb102prework.gif)
-
 <img src='codepathweb102prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
