@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![](https://imgur.com/a/kfqAh19)
+![](codepathweb102prework.gif)
 
 <img src='https://imgur.com/a/kfqAh19' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
