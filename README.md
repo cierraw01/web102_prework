@@ -25,7 +25,7 @@ Here's a walkthrough of implemented features:
 
 ![](codepathweb102prework.gif)
 
-<img src='https://imgur.com/a/kfqAh19' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='codepathweb102prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [GIPHY Capture](https://giphy.com/apps/giphycapture)
